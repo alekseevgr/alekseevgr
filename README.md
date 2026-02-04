@@ -25,7 +25,7 @@ Frontend Developer.
 
 ### 🚀 Projects
 
-#### 💬 Slack-like Chat   
+#### 💬 Slack-like Chat (In Progress 🚧)    
 https://github.com/alekseevgr/frontend-project-12  
 
 Full-featured real-time chat with authentication, routing, and WebSocket messaging.
