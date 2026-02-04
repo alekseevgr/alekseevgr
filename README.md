@@ -16,6 +16,12 @@ I write code using:
 
 ---
 
+### 📫 Contacts
+
+📧 Email: alekseevgr2@gmail.com  
+💬 Telegram: @alekseevgr
+
+---
 
 ### 🚀 Projects
 
@@ -57,8 +63,3 @@ SPA for aggregating RSS feeds with auto-updates and unified post stream.
 **Stack:** JavaScript, DOM API, Axios, Yup, i18next, Bootstrap, Vite (MVC architecture)  
 **Highlights:** RSS parsing, auto refresh, read-state tracking, form validation, localization, build & deploy pipeline.
 
-
-### 📫 Contacts
-
-📧 Email: alekseevgr2@gmail.com  
-💬 Telegram: @alekseevgr
