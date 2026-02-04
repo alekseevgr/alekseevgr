@@ -4,16 +4,21 @@ Frontend Developer.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack & Engineering Skills
 
-I write code using:
-
-- React  
-- TypeScript / JavaScript  
-- Redux Toolkit / Zustand  
-- Vite  
-- Bootstrap  
-
+- React (hooks, reusable components, custom hooks)
+- TypeScript / JavaScript (typed Redux state, API typing, basic generics)
+- Redux Toolkit / Zustand (global state management, slices, selectors)
+- React Router (routing and protected routes)
+- REST API & WebSocket integration (Axios, socket.io-client)
+- Vite (dev/build/preview pipelines)
+- Bootstrap / CSS Modules
+- Form handling and validation (Formik + Yup)
+- Localization (i18next)
+- Error handling and monitoring (Rollbar)
+- Clean code and structured project setup
+- Code quality tools (ESLint, Prettier)
+- Unit and component testing (Jest)
 ---
 
 ### 📫 Contacts
