@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm Grigorii
 
 Frontend Developer.  
-I’ve completed Frontend Developer training at :contentReference[oaicite:0]{index=0}.
+I’ve completed Frontend Developer training at Hexlet
 
 I build client-side applications, manage state, work with forms, and integrate APIs.  
 I prefer to deeply understand requirements, read documentation, and bring tasks to completion.
