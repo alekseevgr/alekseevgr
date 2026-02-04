@@ -4,6 +4,13 @@ Frontend Developer.
 
 ---
 
+### 📫 Contacts
+
+📧 Email: alekseevgr2@gmail.com  
+💬 Telegram: @alekseevgr
+
+---
+
 ### 🛠 Tech Stack & Engineering Skills
 
 - React (hooks, reusable components, custom hooks)
@@ -14,12 +21,6 @@ Frontend Developer.
 - Vite (dev/build/preview pipelines)
 - Code quality tools (ESLint, Prettier)
 - Unit and component testing (Jest)
----
-
-### 📫 Contacts
-
-📧 Email: alekseevgr2@gmail.com  
-💬 Telegram: @alekseevgr
 
 ---
 
